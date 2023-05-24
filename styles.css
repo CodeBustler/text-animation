@@ -35,7 +35,7 @@ h1::after {
   }
 }
 
-/* Follow Text */
+/* Web Text */
 h2 {
   animation: zoom 3s alternate-reverse;
   animation-delay: 6s;
